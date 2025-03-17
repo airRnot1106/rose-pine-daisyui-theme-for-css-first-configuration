@@ -25,9 +25,9 @@
   --color-warning-content: #744e03;
   --color-error: #eb6f92;
   --color-error-content: #660025;
-  --radius-selector: 0rem;
+  --radius-selector: 0.5rem;
   --radius-field: 0.5rem;
-  --radius-box: 0.25rem;
+  --radius-box: 0.5rem;
   --size-selector: 0.25rem;
   --size-field: 0.25rem;
   --border: 1px;
@@ -59,9 +59,9 @@
   --color-warning-content: #744e03;
   --color-error: #eb6f92;
   --color-error-content: #660025;
-  --radius-selector: 0rem;
+  --radius-selector: 0.5rem;
   --radius-field: 0.5rem;
-  --radius-box: 0.25rem;
+  --radius-box: 0.5rem;
   --size-selector: 0.25rem;
   --size-field: 0.25rem;
   --border: 1px;
@@ -93,12 +93,12 @@
   --color-warning-content: #6a3300;
   --color-error: #b4637a;
   --color-error-content: #2d0000;
-  --radius-selector: 2rem;
-  --radius-field: 0rem;
-  --radius-box: 0rem;
+  --radius-selector: 0.5rem;
+  --radius-field: 0.5rem;
+  --radius-box: 0.5rem;
   --size-selector: 0.25rem;
   --size-field: 0.25rem;
   --border: 1px;
-  --depth: 0;
-  --noise: 0;
+  --depth: 1;
+  --noise: 1;
 }
