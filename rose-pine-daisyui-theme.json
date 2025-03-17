@@ -1,7 +1,7 @@
 {
   "themes": [
     {
-      "name": "rose-pine",
+      "name": "rosepine",
       "color": {
         "base.100": "#191724",
         "base.200": "#1f1d2e",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "name": "rose-pine-moon",
+      "name": "rosepine-moon",
       "color": {
         "base.100": "#232136",
         "base.200": "#2a273f",
@@ -65,7 +65,7 @@
       }
     },
     {
-      "name": "rose-pine-dawn",
+      "name": "rosepine-dawn",
       "color": {
         "base.100": "#faf4ed",
         "base.200": "#fffaf3",

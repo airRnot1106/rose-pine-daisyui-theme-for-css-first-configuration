@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
 @plugin "daisyui/theme" {
-  name: "rose-pine";
+  name: "rosepine";
   default: true; /* Set this according to your preference */
   prefersdark: true;
   color-scheme: "dark";
@@ -35,7 +35,7 @@
   --noise: 1;
 }
 @plugin "daisyui/theme" {
-  name: "rose-pine-moon";
+  name: "rosepine-moon";
   default: false; /* Set this according to your preference */
   prefersdark: true;
   color-scheme: "dark";
@@ -69,7 +69,7 @@
   --noise: 1;
 }
 @plugin "daisyui/theme" {
-  name: "rose-pine-dawn";
+  name: "rosepine-dawn";
   default: false; /* Set this according to your preference */
   prefersdark: false;
   color-scheme: "light";
