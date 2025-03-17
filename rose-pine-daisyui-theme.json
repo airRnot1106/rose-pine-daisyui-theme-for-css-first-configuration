@@ -1,0 +1,100 @@
+{
+  "themes": [
+    {
+      "name": "rose-pine",
+      "color": {
+        "base.100": "#191724",
+        "base.200": "#1f1d2e",
+        "base.300": "#26233a",
+        "base-content": "#e0def4",
+        "primary": "#c4a7e7",
+        "primary-content": "#503970",
+        "secondary": "#ebbcba",
+        "secondary-content": "#704948",
+        "accent": "#f6c177",
+        "accent-content": "#744e03",
+        "neutral": "#191724",
+        "neutral-content": "#e0def4",
+        "info": "#31748f",
+        "info-content": "#bcfaff",
+        "success": "#9ccfd8",
+        "success-content": "#265961",
+        "warning": "#f6c177",
+        "warning-content": "#744e03",
+        "error": "#eb6f92",
+        "error-content": "#660025"
+      },
+      "extra-color": {
+        "muted": "#6e6a86",
+        "subtle": "#908caa",
+        "highlight-low": "#21202e",
+        "highlight-med": "#403d52",
+        "highlight-high": "#524f67"
+      }
+    },
+    {
+      "name": "rose-pine-moon",
+      "color": {
+        "base.100": "#232136",
+        "base.200": "#2a273f",
+        "base.300": "#393552",
+        "base-content": "#e0def4",
+        "primary": "#c4a7e7",
+        "primary-content": "#503970",
+        "secondary": "#ea9a97",
+        "secondary-content": "#702d2f",
+        "accent": "#c4a7e7",
+        "accent-content": "#503970",
+        "neutral": "#2a273f",
+        "neutral-content": "#e0def4",
+        "info": "#3e8fb0",
+        "info-content": "#00213b",
+        "success": "#9ccfd8",
+        "success-content": "#265961",
+        "warning": "#f6c177",
+        "warning-content": "#744e03",
+        "error": "#eb6f92",
+        "error-content": "#660025"
+      },
+      "extra-color": {
+        "muted": "#6e6a86",
+        "subtle": "#908caa",
+        "highlight-low": "#2a283e",
+        "highlight-med": "#44415a",
+        "highlight-high": "#56526e"
+      }
+    },
+    {
+      "name": "rose-pine-dawn",
+      "color": {
+        "base.100": "#faf4ed",
+        "base.200": "#fffaf3",
+        "base.300": "#f2e9e1",
+        "base-content": "#575279",
+        "primary": "#907aa9",
+        "primary-content": "#221339",
+        "secondary": "#d7827e",
+        "secondary-content": "#5d161b",
+        "accent": "#907aa9",
+        "accent-content": "#221339",
+        "neutral": "#faf4ed",
+        "neutral-content": "#575279",
+        "info": "#286983",
+        "info-content": "#abe6ff",
+        "success": "#56949f",
+        "success-content": "#002831",
+        "warning": "#ea9d34",
+        "warning-content": "#6a3300",
+        "error": "#b4637a",
+        "error-content": "#2d0000"
+      },
+      "extra-color": {
+        "muted": "#9893a5",
+        "subtle": "#797593",
+        "highlight-low": "#f4ede8",
+        "highlight-med": "#dfdad9",
+        "highlight-high": "#cecacd"
+      }
+    }
+  ]
+}
