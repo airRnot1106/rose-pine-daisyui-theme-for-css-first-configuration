@@ -13,4 +13,5 @@ This repository provides a **Tailwind CSS v4 CSS-first configuration** for apply
 2. Open **DevTools** in your browser.
 3. Navigate to the **Application** tab and open **Local Storage** for `https://daisyui.com`.
 4. Replace the value of `gen-themes-0.2` with the contents of `rose-pine-daisyui-theme-for-generator.json`.
-5. Reload the page.
+5. Replace the value of `gen-theme-id` with the ID of one of the themes in `rose-pine-daisyui-theme-for-generator.json`.
+6. Reload the page.
